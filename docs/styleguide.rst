@@ -67,7 +67,8 @@ Documentation
 * Use `google-style <http://www.sphinx-doc.org/en/stable/ext/example_google.html#example-google>`_
   docstrings. Sphinx's `napoleon <http://www.sphinx-doc.org/en/stable/ext/napoleon.html#module-sphinx.ext.napoleon>`_
   extension will make turn this into valid ``rst``.
-* use block comments to explain implementation 
+* use block comments to explain implementation
+* Javascript code use jsDoc as commenting standards and automatic documentation generator. 
 
 Committing and commit messages
 ------------------------------
